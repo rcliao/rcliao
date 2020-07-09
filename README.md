@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Serverless, GoLang, GraphQL and bunch of fun stuff!
+
 <!--
 **rcliao/rcliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
